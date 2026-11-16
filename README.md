@@ -66,7 +66,7 @@ Industrial Automation & Embedded Systems | 2024 – Present
 ## 📫 Contact
 
 - LinkedIn: [Marwa Ayari](https://www.linkedin.com/in/marwa-ayari-1057a0340/)
-- GitHub: [My Repositories](https://github.com/TON-USERNAME)
+- GitHub: [My Repositories](https://github.com//marwaayari12)
 
 ⭐ *Always curious, always learning, always building.*
 
